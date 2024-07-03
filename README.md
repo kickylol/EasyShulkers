@@ -1,0 +1,1 @@
+After 8 years, EasyShulkers finally implements shulkers into civ in a non OP way. Instead of each player having an inventory of inventories, they can only own one shulker and cannot store shulkers in any container if they have items inside. Their stored shulker items also drop upon death.
